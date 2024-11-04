@@ -1,4 +1,5 @@
 pour cloner: clone + url du fichier
 les 3 commandes de push : git add , git commit , git push
 la commande pull : git-pull
-une commande qui permet de creer une banche et de swicher : git checkout -b <nom-de-la-branche>
+une commande qui permet  de swicher : git checkout  
+pour creer une branche: git branch <nom-de-la-branche> 
