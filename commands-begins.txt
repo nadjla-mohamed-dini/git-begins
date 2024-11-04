@@ -1,2 +1,3 @@
 pour cloner: clone + url du fichier
 les 3 commandes de push : git add , git commit , git push
+la commande pull : git-pull
